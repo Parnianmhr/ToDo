@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/Parnianmhr/ToDo#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0"
+  },
+  "dependencies": {
+    "gulp-jshint": "*",
+    "gulp-concat": "*"
   }
 }
