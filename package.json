@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "to do list with java script",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parnianmhr/ToDo.git"
+  },
+  "author": "Parnian Mhr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parnianmhr/ToDo/issues"
+  },
+  "homepage": "https://github.com/Parnianmhr/ToDo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
